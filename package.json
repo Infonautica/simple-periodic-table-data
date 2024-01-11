@@ -1,0 +1,8 @@
+{
+  "name": "periodic-table-data",
+  "version": "1.0.0",
+  "description": "A collection of data for periodic table",
+  "main": "index.js",
+  "author": "Leonid Danilov",
+  "license": "MIT"
+}
