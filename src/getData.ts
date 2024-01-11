@@ -1,21 +1,4 @@
-import { Data, DataItem, ChemElement, ElementSeries } from "./types";
-
-export const getSeriesColor = (series: ElementSeries): string => {
-  const colors: Record<ElementSeries, string> = {
-    "alkali-metals": "#676c22",
-    "alkaline-earth-metals": "#a48021",
-    lanthanoids: "#7a2b38",
-    actinoids: "#943d24",
-    "transition-metals": "#9f6762",
-    "post-transition-metals": "#5b8e8e",
-    metalloids: "#246172",
-    "reactive-nonmetals": "#11452d",
-    "noble-gases": "#3b2a56",
-    none: "#433737",
-  };
-
-  return colors[series];
-};
+import { Data, DataItem, ChemElement } from "./types";
 
 export const getData = (): Data => {
   return [

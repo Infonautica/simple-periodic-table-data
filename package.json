@@ -5,4 +5,7 @@
   "main": "index.js",
   "author": "Leonid Danilov",
   "license": "MIT"
+  "scripts": {
+    "build:js": "tsc --project tsconfig.json"
+  }
 }
