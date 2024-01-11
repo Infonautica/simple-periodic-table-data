@@ -1,4 +1,4 @@
-# Periodic-table-data
+# Simple-periodic-table-data
 
 A small package that provides necessary data and utils to construct periodic table of elements
 
