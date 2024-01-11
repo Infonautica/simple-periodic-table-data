@@ -4,6 +4,7 @@
   "description": "A collection of data for periodic table",
   "main": "dist/index.js",
   "author": "infonautica",
+  "homepage": "https://github.com/Infonautica/simple-periodic-table-data",
   "license": "MIT",
   "scripts": {
     "build:js": "tsc --project tsconfig.json"
