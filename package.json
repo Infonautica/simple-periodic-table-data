@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of data for periodic table",
   "main": "dist/index.js",
-  "author": "Leonid Danilov",
+  "author": "infonautica",
   "license": "MIT",
   "scripts": {
     "build:js": "tsc --project tsconfig.json"
