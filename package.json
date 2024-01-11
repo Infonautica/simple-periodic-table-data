@@ -1,6 +1,6 @@
 {
   "name": "simple-periodic-table-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of data for periodic table",
   "main": "dist/index.js",
   "author": "infonautica",
